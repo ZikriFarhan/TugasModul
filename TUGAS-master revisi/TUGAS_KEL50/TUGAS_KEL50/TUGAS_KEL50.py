@@ -19,7 +19,7 @@ while (ulang == 1):
     print ("\n\n\n======================COVID-19 RAPID TEST======================\n\n\n")
     sumuk=str(input("Apakah Anda mengalami demam?\t\t\t(iya/tidak)\n"))
     if sumuk == "iya":
-        suhu=float(input("Berapa suhu tubuh Anda?\n"))
+        suhu=float(input("\nBerapa suhu tubuh Anda?\n"))
         if suhu >37.5:
             demam=1
         else:
@@ -27,9 +27,9 @@ while (ulang == 1):
     elif sumuk == "tidak":
         demam=0
 
-    gangfas=str(input("Apakah Anda mengalami gangguan nafas?\t\t(iya/tidak)\n"))
+    gangfas=str(input("\nApakah Anda mengalami gangguan nafas?\t\t(iya/tidak)\n"))
     if gangfas == "iya":
-        nafas=str(input("Apakah Anda mengalami sesak nafas?\t\t(iya/tidak)\n"))
+        nafas=str(input("\nApakah Anda mengalami sesak nafas?\t\t(iya/tidak)\n"))
         if nafas == "iya":
             asma=1
         elif nafas == "tidak":
@@ -37,9 +37,9 @@ while (ulang == 1):
     elif gangfas == "tidak":
         asma=0
 
-    batuk=str(input("Apakah Anda mengalami batuk?\t\t\t(iya/tidak)\n"))
+    batuk=str(input("\nApakah Anda mengalami batuk?\t\t\t(iya/tidak)\n"))
     if batuk == "iya":
-        kering=str(input("Apakah batuk yang diderita adalah batuk kering?\t(iya/tidak)\n"))
+        kering=str(input("\nApakah batuk yang diderita adalah batuk kering?\t(iya/tidak)\n"))
         if kering == "iya":
             uhuk=1
         elif kering == "tidak":
@@ -50,7 +50,7 @@ while (ulang == 1):
     return_func(demam, asma, uhuk)
     x.hasil(covid)
 
-    akhir=str(input("\nApakah Anda ingin mencoba lagi?\t\t(iya/tidak)\n"))
+    akhir=str(input("\n\nApakah Anda ingin mencoba lagi?\t\t(iya/tidak)\n"))
     if akhir == "iya":
         ulang = 0
     elif akhir == "tidak":
