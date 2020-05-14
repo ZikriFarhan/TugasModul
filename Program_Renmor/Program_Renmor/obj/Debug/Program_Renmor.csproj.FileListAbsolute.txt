@@ -1,0 +1,11 @@
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\bin\Debug\Program_Renmor.exe.config
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\bin\Debug\Program_Renmor.exe
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\bin\Debug\Program_Renmor.pdb
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.csprojAssemblyReference.cache
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.Form1.resources
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.Properties.Resources.resources
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.csproj.GenerateResource.cache
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.csproj.CoreCompileInputs.cache
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.exe
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.pdb
+D:\GIT\Kuliah\Project\Modul3Kel50\Percobaan C#\Program_Renmor\Program_Renmor\obj\Debug\Program_Renmor.Form2.resources
